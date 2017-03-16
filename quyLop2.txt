@@ -1,0 +1,8 @@
+Msv  	Ten  		Tong so tien  
+A001  	Nguyen Van A  	1500000  	  	
+A002  	Tran Thi B  	350000  	  	
+A003  	Nguyen Thi C  	650000  	  	
+A004  	Tran Ngoc D  	650000  	  	
+A005  	Phan Van E  	650000  	  	
+------------------------------
+Tong so tien da dong: 3800000
